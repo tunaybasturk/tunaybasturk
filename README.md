@@ -1,4 +1,4 @@
-<img width="951" height="510" alt="image" src="https://github.com/user-attachments/assets/095071f7-6a02-4c44-b644-ee7986a07b44" />[![MasterHead](https://i.ibb.co/bRFMPBG6/githubresim.jpg)
+<img width="951" height="519" alt="image" src="https://github.com/user-attachments/assets/095071f7-6a02-4c44-b644-ee7986a07b44" />[![MasterHead]([https://i.ibb.co/bRFMPBG6/githubresim.jpg](https://i.hizliresim.com/ht20451.jpg))
 <h1 align="center">Hi 👋, I'm Tunay Baştürk</h1>
 <h3 align="center">A passionate software devoloper from Turkey</h3>
 
