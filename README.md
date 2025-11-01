@@ -24,4 +24,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tunaybasturk&" alt="tunaybasturk" /></p>
 
 
-![snake gif](https://github.com/tunaybasturk/tunaybasturk/blob/output/github-contribution-grid-snake.svg?raw=true)
+![snake gif](https://raw.githubusercontent.com/tunaybasturk/tunaybasturk/output/github-contribution-grid-snake.gif)
