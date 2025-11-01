@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/Xf7R2VPh)
+[![MasterHead](https://ibb.co/FLD3zBsW)
 <h1 align="center">Hi 👋, I'm Tunay Baştürk</h1>
 <h3 align="center">A passionate software devoloper from Turkey</h3>
 
