@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/5gR4L5Y9/githubresim.jpg)
+[![MasterHead](https://i.hizliresim.com/nh14bgv.jpg)
 <h1 align="center">Hi 👋, I'm Tunay Baştürk</h1>
 <h3 align="center">A passionate software devoloper from Turkey</h3>
 
