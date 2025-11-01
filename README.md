@@ -1,4 +1,4 @@
-[![MasterHead](https://i.hizliresim.com/ht20451.jpg)
+<img width="946" height="300" alt="image" src="https://github.com/user-attachments/assets/b42dfdb9-e2c3-4d58-93ec-1d7c5498e3fc" />[![MasterHead](https://i.hizliresim.com/ht20451.jpg)
 <h1 align="center">Hi 👋, I'm Tunay Baştürk</h1>
 <h3 align="center">A passionate software devoloper from Turkey</h3>
 
